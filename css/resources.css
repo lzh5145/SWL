@@ -13,3 +13,10 @@ h3 {
 h4 {
   color: black;
 }
+
+footer {
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  position: absolute;
+  text-align: center;
+}
