@@ -22,7 +22,7 @@ h6 {
 }
 
 .topnav {
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 .lead {
@@ -35,8 +35,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
-    background-size: cover;
+    background: url(../img/background.jpg) repeat;
 }
 
 .intro-message {
@@ -115,8 +114,7 @@ h6 {
 
 .banner {
     padding: 100px 0;
-    color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    color: blue;
     background-size: cover;
 }
 
@@ -161,9 +159,13 @@ h6 {
 }
 
 footer {
-    padding: 50px 0;
-    background-color: #f8f8f8;
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  position: absolute;
+  text-align: center;
+  padding: 5em;
 }
+
 
 p.copyright {
     margin: 15px 0 0;
