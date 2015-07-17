@@ -1,11 +1,12 @@
 body {
   text-align: left;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Alegreya Sans SC', sans-serif;
   background: #86E2D5;
   color: black;
+  padding: 5em;
 }
 h3 {
-  color: blue;
+  color: black;
   text-align: center;
 }
 
