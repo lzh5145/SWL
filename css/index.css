@@ -34,14 +34,14 @@ h6 {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
-    color: #f8f8f8;
+    color: #59D8E5;
     background: url(../img/background.jpg) repeat;
 }
 
 .intro-message {
     position: relative;
     padding-top: 20%;
-    padding-bottom: 20%;
+    padding-bottom: 1%;
 }
 
 .intro-message > h1 {
@@ -114,10 +114,10 @@ h6 {
 
 .banner {
     padding: 100px 0;
-    color: blue;
+    color: #59D8E5;
     background: url(../img/background.jpg) repeat;
 }
-
+/*
 .banner h2 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
@@ -156,7 +156,7 @@ h6 {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
-}
+}*/
 
 footer {
   font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
